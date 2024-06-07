@@ -40,7 +40,7 @@
 &trans                   &trans                &kp UP            &trans             &trans          &trans            &trans      &trans    &trans      &trans      &trans        &trans                &trans  &trans          &trans
 &trans                           &kp LEFT              &kp DOWN          &kp RIGHT          &trans          &trans    &trans      &trans    &trans      &trans      &trans        &trans                &trans          &trans
 &trans                           &trans                &trans            &trans             &trans          &trans    &trans      &trans    &trans      &trans      &trans                      &trans          &trans  &trans
-&trans     &trans                &trans                                  &mo 2                              &trans    &trans                            &trans      &trans        &trans                &trans          &trans  &trans
+&trans     &trans                &trans                                  &mo 2                              &trans    &trans                            &mo 2       &trans        &trans                &trans          &trans  &trans
             >;
         };
 
